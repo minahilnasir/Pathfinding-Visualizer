@@ -31,5 +31,5 @@ This project is a **visualizer for multiple pathfinding algorithms** on a grid. 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/pathfinding-project.git
+git clone https://github.com/minahilnasir/pathfinding-project.git
 cd pathfinding-project
